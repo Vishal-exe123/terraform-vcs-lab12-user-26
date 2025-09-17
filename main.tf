@@ -16,7 +16,7 @@ terraform {
     organization = "InfosysVish"  # Will be updated during lab
 
     workspaces {
-      name = "REPLACE_WITH_WOR"  # Will be updated during lab
+      name = "terraform-vcs-lab12-user-26"  # Will be updated during lab
     }
   }
 }
